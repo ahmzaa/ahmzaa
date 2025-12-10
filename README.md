@@ -4,7 +4,7 @@
 ---
 - 💻 A Systems / Network Engineer with 4 years of experience
 - 🇬🇧 Currently Based in the UK
-- 🛠️ Working at Warner Brothers Discovery
+- 🛠️ Working at Google
 ---
 - 📫 You can contact me using the badges below
 
@@ -19,4 +19,4 @@
 [![gitlab](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_ahmza_/)
 
 > [!Note]
-> At the moment more of my projects can be found on GitLab
+> There are projects yet to be migrated from my gitlab
