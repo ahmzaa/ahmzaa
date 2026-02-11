@@ -16,8 +16,5 @@
 
 [![blog](https://img.shields.io/badge/Blog-FF4088?style=flat-square&logo=hugo&logoColor=white)](https://blog.ahmza.com)
 [![gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/ahmza)
-[![gitlab](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmzaa)
-[![gitlab](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_ahmza_/)
-
-> [!Note]
-> There are projects yet to be migrated from my gitlab
+[![github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ahmzaa)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_ahmza_/)
